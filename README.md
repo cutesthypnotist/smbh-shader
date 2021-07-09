@@ -3,7 +3,7 @@ Supermassive black hole shader based upon Kelvin van Hoorn's SMBH tutorial for U
 
 ## Licensing
 
-Copyright (C) 2021-- CutestHypnotist
+Code written by me is Copyright (C) 2021-- CutestHypnotist
 
 This project is free software; You can redistribute it and/or modify it under the terms of:
   - the GNU Affero General Public License version 3 as published by the Free Software Foundation.
