@@ -1,3 +1,5 @@
+Adapted from https://gist.github.com/balupton/492562/8071c9e3bb1d5e6720d74fcc474ccd4c655a3aa1
+
 Copyright (C) 2021-- CutestHypnotist
 
 This project is free software; You can redistribute it and/or modify it under the terms of:
