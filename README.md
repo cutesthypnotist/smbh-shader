@@ -1,7 +1,7 @@
 # SMBH Shader Unity
 Supermassive black hole shader based upon Kelvin van Hoorn's SMBH tutorial for Unity.
 
-![img](screen.jpg)
+![img](./Images/screen.jpg)
 
 # License
 Copyright (C) 2021-- CutestHypnotist 
