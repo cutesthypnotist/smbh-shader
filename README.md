@@ -4,7 +4,7 @@ Supermassive black hole shader based upon Kelvin van Hoorn's SMBH tutorial for U
 ![img](screen.jpg)
 
 # License
-GNU AFFERO GENERAL PUBLIC LICENSE v3+ (APGLv3+)
+GNU AFFERO GENERAL PUBLIC LICENSE v3+ (APGLv3+) <http://www.gnu.org/licenses/>
 
 See COPYING and LICENSE for more information.
 
