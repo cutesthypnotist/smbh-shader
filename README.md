@@ -8,7 +8,7 @@ Code written by me in this repository is Copyright (C) 2021-- CutestHypnotist an
 
 Problems with the license? Just let me know.
 
-The rest of this is adapted from <https://gist.github.com/balupton/492562/8071c9e3bb1d5e6720d74fcc474ccd4c655a3aa1> because I am lazy.
+The rest of this is adapted from <https://gist.github.com/balupton/492562/8071c9e3bb1d5e6720d74fcc474ccd4c655a3aa1>.
 Any mention of "this project" henceforth refers only to work I did or code that I have written in this repository.
 
 This project is free software; You can redistribute it and/or modify it under the terms of:
