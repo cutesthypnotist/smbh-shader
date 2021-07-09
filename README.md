@@ -3,7 +3,7 @@ Supermassive black hole shader based upon Kelvin van Hoorn's SMBH tutorial for U
 
 [screen.jpg]
 
-# License
+# APGLv3+
 Problems with my license? Just let me know.
 
 Below is copied from https://gist.github.com/balupton/492562/8071c9e3bb1d5e6720d74fcc474ccd4c655a3aa1
